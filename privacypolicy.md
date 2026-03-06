@@ -44,6 +44,11 @@ Changes to This Policy
 
 This Privacy Policy may be updated periodically to reflect improvements to the application or changes in legal requirements. Updated versions will be posted on the WeatherWirx website.
 
+Donations and Transparency
+All donations received are used 100% to support WeatherWirx development and operations. This includes server costs for weather data, domain/hosting fees, occasional freelance help for new features, and future improvements to the app.
+We will publish an annual summary (starting 2027) on the WeatherWirx website showing total donations received and high-level spending categories. Detailed expense reports are available upon request via support@weatherwirx.com.
+WeatherWirx is a solo/indie project run by one person — every donation directly helps keep the app free, ad-free, and privacy-respecting for everyone.
+
 Contact
 
 If you have questions regarding this Privacy Policy, please contact:
