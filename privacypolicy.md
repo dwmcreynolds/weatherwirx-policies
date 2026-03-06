@@ -25,8 +25,11 @@ WeatherWirx does not collect or store:
 • Financial information
 
 Donations
+WeatherWirx may provide links to external donation platforms (such as PayPal). Donations are processed directly through those third-party services, and WeatherWirx does not store or process any payment information.
+50% of all donations go directly to animal welfare organizations (primarily supporting rescue and rehabilitation efforts).
+The remaining 50% is used to cover WeatherWirx operating costs, including weather data servers, hosting, domain fees, and continued development of the app.
+Every donation helps keep WeatherWirx completely free, ad-free, and privacy-respecting while also making a positive impact on animal welfare.
 
-WeatherWirx may provide links to external donation platforms (such as PayPal). Donations are processed directly through those third-party services, and WeatherWirx does not store or process payment information.
 
 Third-Party Services
 
@@ -44,10 +47,6 @@ Changes to This Policy
 
 This Privacy Policy may be updated periodically to reflect improvements to the application or changes in legal requirements. Updated versions will be posted on the WeatherWirx website.
 
-Donations and Transparency
-All donations received are used 100% to support WeatherWirx development and operations. This includes server costs for weather data, domain/hosting fees, occasional freelance help for new features, and future improvements to the app.
-We will publish an annual summary (starting 2027) on the WeatherWirx website showing total donations received and high-level spending categories. Detailed expense reports are available upon request via support@weatherwirx.com.
-WeatherWirx is a solo/indie project run by one person — every donation directly helps keep the app free, ad-free, and privacy-respecting for everyone.
 
 Contact
 
